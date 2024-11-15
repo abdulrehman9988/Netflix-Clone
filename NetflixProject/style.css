@@ -1,0 +1,68 @@
+
+
+
+.main-container{
+    background-image: url("bg-image.jpg");
+    height: 100vh;
+    padding: 0;
+    
+}
+
+.main-box{
+    text-align: center;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;    
+}
+
+.main-box-h1{
+    font-size: 3rem;
+}
+
+.login-para{
+    text-align: center;
+    color: white;
+}
+
+.carosel-content{
+    display: flex;
+    justify-content: center;
+    width: 300px;
+    
+}
+
+@media (max-width:450px) {
+
+    .main-box-h1{
+        font-size: 2rem;
+    }
+    
+}
+
+.footer{
+    background-color: rgb(62, 55, 55);
+}
+
+.footer-anchor{
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
